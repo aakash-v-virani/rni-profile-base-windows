@@ -16,6 +16,6 @@
 # Otherwise, the utility OS will be used.
 
 base_os_files:
-  - url: https://google.com
-    filename: winpe_10.iso
+  - url: https://releases.ubuntu.com/20.04/ubuntu-20.04.4-desktop-amd64.iso
+    filename: ubuntu-20.04.iso
     type: iso
